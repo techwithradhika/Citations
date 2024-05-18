@@ -13,7 +13,7 @@ The identified sources, called citations, are then displayed in a user-friendly 
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: https://github.com/techwithradhika/Citations.git
+1. Clone the repository: git clone https://github.com/techwithradhika/Citations.git
 2. In your terminal Navigate to the current project directory: cd Citations
 3. Install virtual environment (recommended): pip install virtualenv
 4. Create a virtual environment: python -m virtualenv venv
