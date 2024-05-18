@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 3. Install virtual environment (recommended): pip install virtualenv
 4. Create a virtual environment: python -m virtualenv venv
 5. Activate the virtual environment: .\venv\Scripts\activate
-6. Install the dependencies: pip install requests transformers torch flask sentence-transformers
+6. Install the dependencies: pip install requests torch flask sentence-transformers
 7. Run the Flask application: python main.py
 8. Open your web browser and navigate to: http://127.0.0.1:5000/
 9. View the citations: The citations will be displayed in a list format. Each citation includes the ID and link.
